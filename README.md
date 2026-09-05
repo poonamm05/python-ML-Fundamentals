@@ -44,8 +44,10 @@ Scikit-Learn
 1.Clone the Repository
 -> git clone https://github.com/poonamm05/python-ML-Fundamentals.git
 -> cd Python_For_Machine_Learning
+
 2.Install Dependencies
 -> pip install -r requirements.txt
+
 3.Open Notebooks
 -> jupyter notebook
 
